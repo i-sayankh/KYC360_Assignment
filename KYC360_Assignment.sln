@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC360_Assignment", "KYC360_Assignment\KYC360_Assignment.csproj", "{D7046614-9C17-4053-BC79-3DC6EEDF870D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7046614-9C17-4053-BC79-3DC6EEDF870D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7046614-9C17-4053-BC79-3DC6EEDF870D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7046614-9C17-4053-BC79-3DC6EEDF870D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7046614-9C17-4053-BC79-3DC6EEDF870D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA0D4D4-082E-4784-91F9-C291E62B793A}
+	EndGlobalSection
+EndGlobal
